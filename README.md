@@ -1,1 +1,8 @@
 # ReactLoginApp
+Functionality:
+1.RegistrationPage.
+2.LoginPageviaemailandPasswordwitharemembermecheckbox.LoginviagoogleandFacebook.
+3.Aboutpage(detailsoftheuserwhologinthroughloginpage)
+4.HomePage4.UserVerificationthroughJWTToken.
+5.Userauthentication.
+6.Storingthedetailsofusersindatabase
