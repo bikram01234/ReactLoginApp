@@ -3,10 +3,12 @@
   background-color: #ffff !important;
 }
 body {
-color: #fff;
+color:red;
 background: #63738a;
 font-family: 'Roboto', sans-serif;
+height: 100%
 }
+
 .form-control {
 height: 40px;
 box-shadow: none;
@@ -90,6 +92,18 @@ text-decoration: none;
 .signup-form form a:hover {
 text-decoration: underline;
 } 
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.bgimg {
+  /* Background image */
+  background-color: red;
+  
+}
 /* login css */
 .login-form {
   width: 400px;

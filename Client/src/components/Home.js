@@ -33,10 +33,14 @@ function Home() {
       },[]);
 
     return (
-        <div >
+     <>
+       <div class="bgimg">
+        <div class="middle bgimg">
             <p>WELCOME {UserName}</p>
             <h1>{show?"Hope to See You Back":"It is a Home Page"}</h1>
         </div>
+        </div>
+       </>
     )
 }
 
